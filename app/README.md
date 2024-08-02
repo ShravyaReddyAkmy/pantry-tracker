@@ -1,4 +1,5 @@
-# Next.js application for Pantry management
-Using Firebase cloud firestore for database
-Using Material.ui for styling components
-Using react for fron-end
+# Next.js application 
+- Firebase cloud firestore for database
+- Material.ui for styling components
+- React for fron-end
+- Vercel for website hosting
